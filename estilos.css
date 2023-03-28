@@ -1,0 +1,11 @@
+html{
+	background-image: url('arks.jpg');
+}
+
+table, td {
+        border:1px solid black;
+      }
+      table {
+        border-spacing:10px;
+      }	
+	  
